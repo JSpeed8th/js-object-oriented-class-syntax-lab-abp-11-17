@@ -7,7 +7,7 @@ class BoardMember {
 
   veto () {
 
-    return 'You can do that!'
+    return 'No, I must disagree'
   }
 
   approve () {
@@ -29,5 +29,5 @@ class BoardMember {
 
     return `Hi, my name is ${this.name}, I am from ${this.homestate}, and I was trained in ${this.training}.`
   }
-  
+
 }
