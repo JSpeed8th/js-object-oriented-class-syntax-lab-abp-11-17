@@ -12,7 +12,7 @@ class BoardMember {
 
   approve () {
 
-    return returns `You can do that!`
+    return `You can do that!`
   }
 
   doCharity () {
